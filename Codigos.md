@@ -3,7 +3,7 @@ Lista de códigos com utilidade geral para os membros do LaBiCrono.
 
 Proposta:
 - Os códigos de uso mais geral serão mantidos em um pacote propriamente dito
-- Outros códigos para funções mais específicas podem ser mantidos apenas no Github
+- Outros códigos para funções mais específicas podem ser mantidos avulsos, apenas no Github
 
 
 ### Códigos para o pacote
