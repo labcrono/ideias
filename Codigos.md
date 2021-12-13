@@ -1,5 +1,10 @@
 # Pacote R
-- 1
-- 2
-- 3
-- 4
+## Subtitulo
+### Subtitulo 2
+- *negrito*
+- _italico_
+- ~strike~
+
+1. item 1
+2. item 2
+3. item 3
