@@ -1,7 +1,7 @@
 # Pacote R
 ## Subtitulo
 ### Subtitulo 2
-- *negrito*
+- **negrito**
 - _italico_
 - ~strike~
 
